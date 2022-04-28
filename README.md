@@ -5,15 +5,13 @@ This repository is for the research on the specialty of the Korean NFT market in
 
 ## Comupational Requirements
 
-To run the codes in RMarkdown and RScript file, R[1] is required to be installed. Related R packages should be installed before running the codes as well, and it is acheivable by running codes in 'computational_requirements.R' file in this repository. We used tidyverse[2] to manipulate the datasets, knitr[3] and kableExtra[4] to generate tables with the cleaned datasets and fix its placement in the paper. usmap[5] helped to plot datasets on US map, generating related figures. Finally, bookdown[6] was used as a powerful cross referene tool for generating final pdf document.
+To run the codes in RMarkdown and RScript file, R[1] is required to be installed. Related R packages should be installed before running the codes as well, and it is acheivable by running codes in 'computational_requirements.R' file in this repository. We used tidyverse[2], tidytext[3], Hmisc[4] to manipulate the datasets, knitr[5] and kableExtra[6] to generate tables with the cleaned datasets and fix its placement in the paper. Finally, bookdown[6] was used as a powerful cross referene tool for generating final pdf document.
 
-Data Availability and Provenance Statements
-
-Statement about Rights
+# Statement about Rights
 
 I certify that the author(s) of the manuscript have legitimate access to and permission to use the data used in this manuscript.
 
-Summary of availability
+# Summary of availability
 
 All data in the replication package is available here.
 
